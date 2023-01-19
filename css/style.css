@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #348E38;
+    --primary: #f58f22;
     --secondary: #525368;
     --light: #E8F5E9;
-    --dark: #0F4229;
+    --dark: #0289ce;
 }
 
 .back-to-top {
@@ -508,7 +508,7 @@ h6,
 
 .copyright {
     color: var(--light);
-    background: #072A19;
+    background: #064160;
 }
 
 .copyright a {
